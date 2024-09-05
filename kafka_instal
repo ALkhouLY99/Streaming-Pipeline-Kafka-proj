@@ -1,0 +1,4 @@
+# Download Kafka
+wget https://downloads.apache.org/kafka/3.7.1/kafka_2.12-3.7.1.tgz
+# To extract Kafka from a .tgz file
+tar -xzf kafka_2.12-3.7.1.tgz
