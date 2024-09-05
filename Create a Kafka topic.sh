@@ -4,7 +4,7 @@ cd kafka_2.12-3.7.1
 bin/kafka-topics.sh --create --topic toll --bootstrap-server localhost:9092
 -----------------------------
 # or 
-------------------------------
+------------------------------ admin.py -------------------------
 #  using python API 
 from kafka.admin import KafkaAdminClient, NewTopic
 
